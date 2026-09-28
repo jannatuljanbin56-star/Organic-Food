@@ -1,0 +1,6 @@
+{
+  "name": "GreenRoot Organics - Local SEO Farm Fresh Food",
+  "description": "Local SEO-optimized organic food platform featuring farm-to-table produce, interactive Google Maps contact, dynamic XML sitemap generator, and local search metadata management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
